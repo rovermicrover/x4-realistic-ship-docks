@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="/index">
+		<entry name="shipstorage_gen_s_rd_large_01_macro" value="extensions\realisticdocks\assets\props\SurfaceElements\macros\shipstorage_gen_s_rd_large_01_macro"/>
+		<entry name="shipstorage_gen_m_rd_large_01_macro" value="extensions\realisticdocks\assets\props\SurfaceElements\macros\shipstorage_gen_m_rd_large_01_macro" />
+	</add>
+</diff>

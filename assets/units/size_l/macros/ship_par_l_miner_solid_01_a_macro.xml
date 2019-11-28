@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <replace sel="//macros/macro[@name='ship_par_l_miner_solid_01_a_macro']/connections/connection[@ref='con_shipstorage_s_01']/macro/@ref">shipstorage_gen_s_rd_large_01_macro</replace>
+</diff>
